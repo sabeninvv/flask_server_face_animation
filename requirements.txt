@@ -4,7 +4,7 @@ chardet==3.0.4
 click==7.1.2
 cycler==0.10.0
 decorator==4.4.2
-
+face-alignment==1.0.0
 ffmpeg-python==0.2.0
 Flask==1.1.2
 future==0.18.2
@@ -32,8 +32,8 @@ scikit-video==1.1.11
 scipy==1.4.1
 six==1.14.0
 tifffile==2020.5.11
-
-
+torch==1.2.0+cpu
+torchvision==0.4.0+cpu
 tqdm==4.46.0
 urllib3==1.25.9
 Werkzeug==1.0.1
